@@ -1,0 +1,12 @@
+{
+    "id": "house 1",
+    "imgs": [
+        "../imgs/image1.webp",
+        "../imgs/image2.webp",
+        "../imgs/image3.webp",
+        "../imgs/image4.webp",
+        "../imgs/image5.webp",
+        "../imgs/image6.webp",
+        "../imgs/image7.webp"
+    ]
+}
